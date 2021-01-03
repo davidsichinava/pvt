@@ -2,7 +2,7 @@ library(tidyverse)
 library(readxl)
 setwd("D:\\Dropbox\\pollster.ge\\Geo Parl 2020\\Analysis\\PVT")
 
-pvt <- read_xlsx("PVT_Dec11_2020.xlsx", sheet=1)
+pvt <- read_xlsx("PVT.xlsx", sheet=1)
 
 mean(pvt$Modulo)
 

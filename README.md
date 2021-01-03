@@ -6,3 +6,7 @@
 ![Chart](pvt_cec_results.png)
 
 This dataset contains available data on parallel vote tabulation conducted by the International Society For Free Elections and Democracy (ISFED) in Georgia. In several cases data on error margins was not included in the analyzed sources.
+
+### UPDATE
+
+As we saw a rather unfortunate discrepancy between ISFED's initial and updated vote count estimates, ~that promted hosts of conspiracies~ I have updated the source excel file. For previous estimates, refer to folder "before_isfed_audit".
